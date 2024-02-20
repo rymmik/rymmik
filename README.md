@@ -14,7 +14,6 @@
 
 ###
 
-
 <img src="https://raw.githubusercontent.com/rymmik/rymmik/output/snake.svg" alt="Snake animation" />
 
 ###
