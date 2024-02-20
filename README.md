@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-<!--
-**rymmik/rymmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Mikołaj Rymajdo and I'm a Computer Science and Econometrics student at University of Warsaw</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Expertise in statistical analysis, data visualization, econometric modelling, and machine learning. <br>🎯 Skilled in Python, R, SQL, VBA, Tableau and PowerBI.</p>
+
+###
+
+
+<img src="https://raw.githubusercontent.com/rymmik/rymmik/output/snake.svg" alt="Snake animation" />
+
+###
