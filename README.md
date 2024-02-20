@@ -14,6 +14,6 @@
 
 ###
 
-<img alt="Coding" width=800 src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img alt="Coding" width=820 src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
 ###
