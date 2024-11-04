@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mikołaj Rymajdo and I'm a Computer Science and Econometrics student at University of Warsaw</p>
+<p align="left">Quantitive Analyst, Data Scientist, Credit Risk | University of Warsaw, Faculty of Economic Sciences, Computer Science and Econometrics</p>
 
 ###
 
