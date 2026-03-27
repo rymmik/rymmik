@@ -1,19 +1,19 @@
 <h1 align="left">Hi there 👋</h1>
 
-###
-
 <p align="left">PhD candidate, Data Scientist, Credit Risk | Warsaw University of Technology</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h4 align="left">About me:</h4>
+
+<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Interest in statistical analysis, data visualization, econometric modelling, and machine learning. <br>🎯 Skilled in Python, R, SQL, VBA, Tableau and PowerBI.</p>
 
 ###
 
-<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Expertise in statistical analysis, data visualization, econometric modelling, and machine learning. <br>🎯 Skilled in Python, R, SQL, VBA, Tableau and PowerBI.</p>
+<h4 align="left">Reach me:</h4>
 
-###
+<p align="left">📧 mikolaj.rymajdo.dokt@pw.edu.pl</p>
 
-<img alt="Coding" width=820 src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
-###
+
+
