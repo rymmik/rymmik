@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Quantitive Analyst, Data Scientist, Credit Risk | University of Warsaw, Computer Science and Econometrics</p>
+<p align="left">PhD candidate, Data Scientist, Credit Risk | Warsaw University of Technology</p>
 
 ###
 
