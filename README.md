@@ -1,6 +1,6 @@
-<h1 align="left">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h2>
 
-<p align="left">PhD candidate, Data Scientist, Credit Risk | Warsaw University of Technology</p>
+<p align="left">PhD candidate Warsaw University of Technology</p>
 
 ###
 
