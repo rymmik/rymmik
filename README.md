@@ -6,7 +6,7 @@
 
 <h4 align="left">About me:</h4>
 
-<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Interest in statistical analysis, data visualization, econometric modelling, and machine learning. <br>🎯 Skilled in Python, R, SQL, VBA, Tableau and PowerBI.</p>
+<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Interest in statistical analysis, data visualization, econometric modelling, and machine learning.</p>
 
 ###
 
