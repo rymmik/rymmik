@@ -6,7 +6,7 @@
 
 <h4 align="left">About me:</h4>
 
-<p align="left">✨ I am Data Scientist passionated about uncovering insights from data.<br>📚 Interest in statistical analysis, data visualization, econometric modelling, and machine learning.</p>
+<p align="left">✨ I am data scientist building predictive models in credit risk.<br>📚 Interest in statistical analysis, data visualization, econometric modelling, and machine learning.</p>
 
 ###
 
